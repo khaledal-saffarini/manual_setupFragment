@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcom_to_home_fragment">welcom to home fragment</string>
+    <string name="welcom_to_blank_fragment">welcom to blank fragment</string>
+    <string name="dropen">open</string>
+    <string name="reclose">close</string>
+</resources>
